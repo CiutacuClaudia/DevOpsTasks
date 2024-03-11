@@ -1,0 +1,30 @@
+name: Docker Build and Push
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Login to Docker Registry
+        run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin docker.io
+
+      - name: Build and tag Docker image
+        run: |
+          docker build -t tremend_devops_tasks .
+          IMAGE_TAG=$(echo $GITHUB_SHA | cut -c1-7)
+          docker tag tremend_devops_tasks docker.io/claudiaciutacu/tremend_devops_tasks:$IMAGE_TAG
+          docker tag tremend_devops_tasks docker.io/claudiaciutacu/tremend_devops_tasks:latest
+
+      - name: Push Docker image
+        run: |
+          docker push docker.io/claudiaciutacu/tremend_devops_tasks:$IMAGE_TAG
+          docker push docker.io/claudiaciutacu/tremend_devops_tasks:latest
+
