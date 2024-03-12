@@ -50,3 +50,6 @@ To ensure that the Dockerized application functions correctly within the contain
    ```
    Hello, World!
    ```
+
+
+![2-2](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/24d648c2-d2bb-4c72-9a55-48f948751c48)

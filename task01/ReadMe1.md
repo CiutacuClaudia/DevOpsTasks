@@ -19,3 +19,10 @@
 #### Bash Script for `/etc/passwd` Manipulation
 1. **Script Description**: This script reads the `/etc/passwd` file and performs various actions.
 2. **Script Contents**: found in passwd_script.sh
+
+
+![1](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/ab439627-cc85-45ca-ac42-d9590bd418ed)
+![1 2](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/052286dc-b4c7-4623-9993-d434bad9ba7f)
+![1 1](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/7612b266-ed3e-4f20-b390-b63ef813fb19)
+![task01](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/a0d60cb2-4030-49d3-99e5-e720342e8bc7)
+
