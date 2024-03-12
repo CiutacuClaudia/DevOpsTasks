@@ -21,8 +21,6 @@
 2. **Script Contents**: found in passwd_script.sh
 
 
-![2-2](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/2af0faaa-9963-45a3-8b0a-9bfe930af6e1)
 ![1](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/ab439627-cc85-45ca-ac42-d9590bd418ed)
 ![1 2](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/052286dc-b4c7-4623-9993-d434bad9ba7f)
 ![1 1](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/7612b266-ed3e-4f20-b390-b63ef813fb19)
-![Capture](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/840b613c-d865-4310-81f1-5f860c6888fd)
