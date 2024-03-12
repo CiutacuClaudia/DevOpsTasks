@@ -24,3 +24,4 @@
 ![1](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/ab439627-cc85-45ca-ac42-d9590bd418ed)
 ![1 2](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/052286dc-b4c7-4623-9993-d434bad9ba7f)
 ![1 1](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/7612b266-ed3e-4f20-b390-b63ef813fb19)
+![Capture](https://github.com/CiutacuClaudia/DevOpsTasks/assets/93795693/4b6fd317-34e7-45eb-82e7-fb071384a605)
